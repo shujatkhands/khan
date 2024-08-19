@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 17.5.1//EN
-N:Muhammed Shafi;;;
-FN: Muhammed Shafi 
+N:Khan Shujat Yousuf;;;
+FN:Khan Shujat Yousuf
 ORG:AIRBUS;
-TITLE:Technical Manager Backoffice Systems
-EMAIL;type=INTERNET;type=WORK;type=pref: muhammed.shafi@airbus.com
-TEL;type=WORK;type=VOICE:+966569832379
+TITLE:IT Team Leader and Security Officer
+EMAIL;type=INTERNET;type=WORK;type=pref: khan-shujat.yousuf@airbus.com
+TEL;type=WORK;type=VOICE:+966569835138
 item1.ADR;type=WORK;type=pref:;;Futuro Tower;;;King Saud Road;Riyadh
 item1.X-ABADR:sg
 item2.URL;type=pref:airbus.com
